@@ -39,7 +39,7 @@ This implementation handles the following conversions:
 
 Through this project, I developed a deeper understanding of:
 
-- Variadic functions (`va_list`, `va_start`, `va_arg`, `va_end`)
+- Variadic functions (`va_list`,  `va_start`, `va_arg`, `va_end`)
 - Type conversion and formatting
 - Integer to string conversion
 - Base conversion (decimal ↔ hexadecimal)
